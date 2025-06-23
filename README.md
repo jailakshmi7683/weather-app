@@ -9,7 +9,8 @@ Weather Watch is a simple app that shows real-time weather information for any c
 - Powered by [OpenWeatherMap API](https://openweathermap.org/api)
 
 ## Screenshot
-![screenshot](Output1.png) <!-- Add your screenshot here -->
+![screenshot](Output1.png)
+![screenshot](Output2.png)
 
 ## Files Included
 - `index.html` - Page structure
